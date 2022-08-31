@@ -1,0 +1,3 @@
+C:/Users/VNA-PC/CLionProjects/code c++/cmake-build-debug/CMakeFiles/code_c__.dir
+C:/Users/VNA-PC/CLionProjects/code c++/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/VNA-PC/CLionProjects/code c++/cmake-build-debug/CMakeFiles/rebuild_cache.dir
