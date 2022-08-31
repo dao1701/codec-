@@ -31,24 +31,5 @@ bool cmp(char a, char b) {
 
 int main() {
     home();
-    int n;
-    cin >> n;
-    char c[100];
-    for (int i = 0; i < n; ++i) {
-        cin >> c + i;
-    }
-    sort(c, c + n, cmp);
-    cout << c;
-    vector<int> vector1;
-    vector1.push_back(3);
-    vector1.push_back(4);
-    vector1.push_back(6);
-    vector1.push_back(2);
-    vector1[1] = 200;
-    cout << endl;
-    for (auto &item: vector1) {
-        item = item + 1;
-        cout << item << endl;
-    }
     return 0;
 }
