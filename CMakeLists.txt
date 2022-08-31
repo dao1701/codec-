@@ -3,4 +3,4 @@ project(code_c__)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(code_c__ main.cpp Node.cpp Node.h test2.cpp)
+add_executable(code_c__ main.cpp)
